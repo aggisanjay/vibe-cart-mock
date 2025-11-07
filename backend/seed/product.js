@@ -1,0 +1,51 @@
+export const productsSeed = [
+  {
+    id: "p1",
+    name: "Vibe Tee",
+    price: 499,
+    image: "https://cdn.shopify.com/s/files/1/0595/0669/files/vibewhi.png?v=1685807765"
+  },
+  {
+    id: "p2",
+    name: "Vibe Hoodie",
+    price: 1499,
+    image: "https://kendrablanca.b-cdn.net/wp-content/uploads/2019/06/vibe_HOODIE_HITAM.jpeg"
+  },
+  {
+    id: "p3",
+    name: "Vibe Cap",
+    price: 299,
+    image: "https://media-photos.depop.com/b1/27683312/1810171926_8f52a94f407e4f5588b3e5cb1ac505f8/P0.jpg"
+  },
+  {
+    id: "p4",
+    name: "Vibe Mug",
+    price: 399,
+    image: "https://vibecalifornia.com/wp-content/uploads/2022/05/white-ceramic-mug-with-color-inside-orange-11oz-left-628c47c0a785a.jpg"
+  },
+  {
+    id: "p5",
+    name: "Vibe Socks",
+    price: 199,
+    image: "https://tse3.mm.bing.net/th/id/OIP.wNU5jHxNeHfuvLpcOniU6QHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    id: "p6",
+    name: "Vibe Bottle",
+    price: 699,
+    image: "https://www.promocatering.co.uk/img/product/1737029489_c6933-aluminium-bottle-group-v1.jpg"
+  },
+  {
+    id: "p7",
+    name: "Vibe Tote",
+    price: 599,
+    image: "https://www.goodvibesnyc.org/cdn/shop/files/8036744620771090468_2048.jpg?v=1691022463"
+  },
+  {
+    id: "p8",
+    name: "Vibe Notebook",
+    price: 249,
+    image: "https://images.teemill.com/1kzyyfid6jd0e5xvmuzxol4oxca4s54oljewtfytrxmjet6a.jpeg.jpg?w=1080&h=1080&v=2"
+  }
+];
+
